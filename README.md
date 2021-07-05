@@ -3,3 +3,4 @@
 |Problem Name                                   |Approach                   |
 |-----------------------------------------------|---------------------------|
 |849. Maximize Distance to Closest Person       |Greedy                     |
+|48. Rotate Image                               |Transpose Matrix + Reverse |
